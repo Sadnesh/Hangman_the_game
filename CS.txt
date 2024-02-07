@@ -1,0 +1,363 @@
+access point
+accessibility
+ActiveX
+address
+Artificial Intelligence
+alias
+anonymous FTP
+Anti-Spam
+applet
+application
+ASCII file
+AT command set
+attachment
+authentication
+backbone
+bandwidth
+BCP
+BI
+binary file
+BinHex
+bit
+blended learning
+blog
+bluetooth
+BMP
+bookmark
+boolean logic
+bounce
+bridge
+broadband connection
+browser
+buffer
+buffered
+business continuity
+business continuity plan
+BYOD
+byte
+cable modem
+cache
+captcha
+carrier services
+case-sensitive
+CBT
+CD-R drive
+CD-ROM
+CD-RW
+CD-R disk
+CGI
+chat
+chatgpt
+client
+client-server technology
+cloud
+cloud computing
+CMS
+compress
+connect
+cookie
+courseware
+CPU
+CSP
+CSS
+cursor
+cyberspace
+cybersecurity
+DaaS
+daemon
+database
+data center
+decompress
+defragmentation
+degauss
+desktop
+DHCP
+dialog box
+Dial-Up Adapter
+dial up connection
+digital asset
+digitize
+DIMM
+directory
+disaster recovery
+disaster recovery planning
+discussion group
+distance education
+distance learning
+dither
+DNS
+domain
+download
+dpi
+DRaaS
+drag and drop
+DSL
+DVD
+DVD-RW
+DVD-R disk
+EAP
+EGA
+eLearning
+e-mail
+e-mail archiving
+emoticon
+emulation
+encryption
+EPS
+Ethernet
+Ethernet card
+expansion card
+extension
+female connector
+field
+file
+filter
+finger
+firewall
+FireWire
+flash drive
+flash memory
+folder
+font
+frames
+freeware
+fragmentation
+FTP
+generative AI
+GIF
+gigabyte
+GPS
+greyware
+GUI
+handshaking
+hard disk
+hardware
+header
+help desk
+helper application
+home page
+host
+HTML
+HTTP
+hyperlink
+hypertext
+hypervisor
+IaaS
+icon
+ICS
+IEEE 1394 port
+image map
+IMAP
+Internet
+Internet Domain Management
+Internet Explorer
+Internet radio
+IP address
+IRC
+IRQ
+ISP
+IT Assessment
+IV&V
+Java
+JavaScript
+JPEG
+justified
+Kbps
+Kerberos
+kerning
+keyword
+kilobyte
+knowledge base
+kotlin
+LAN
+Large Language Model
+laser printer
+leading
+learning management system
+learning object
+link
+LINUX
+ListProcessor
+Listserver
+log in
+MaaS
+MAC
+maching learning
+Macintosh
+mail server
+mailing list
+main memory
+mainframe
+male connector
+malware
+Managed Workstations
+MAPI
+MDM
+megabyte
+MHz or mHz
+menu
+Microsoft Exchange
+Microsoft Windows
+MIME
+modem
+moderator
+monitor
+mouse
+MPEG
+MRB
+MSP
+MSSP
+multimedia
+multitasking
+NaaS
+nameserver
+NAT
+network
+network adapter
+network hub
+NNTP
+network monitoring
+network security
+NIC
+OCR
+on-Cloud
+on-site
+online
+OpenType
+PaaS
+packet
+palette
+page
+parallel port
+password
+PC
+PDA
+PDF
+peer-to-peer
+Perl
+PGP
+Ph
+phishing
+PHP
+PING
+pixel
+plug-in
+plug and play
+POP
+pop-up blocker
+post
+PostScript
+PostScript fonts
+PPP
+program
+private cloud
+protocol
+proxy
+public domain software
+pull
+push
+python
+QoS
+QuickTime
+RAM
+record
+registry
+remote backup
+remote desktop
+remote login
+remote monitoring
+remote support
+RGB
+RJ-45 connector
+ROM
+router
+RTF
+SaaS
+safe mode
+SAN
+SATA
+satellite transmission
+screen reader
+scroll bar
+search engine
+secure server
+security token
+Section 508
+self-extracting file
+serial port
+server
+shareware
+signature
+SIMM
+SMTP
+software
+spam
+SSH
+SSID
+streaming (streaming media)
+spyware
+subdirectory
+Support365
+SVGA
+T-1 carrier
+T-3 carrier
+10Base-T
+table
+TCP/IP
+Telephony
+telnet
+terminal emulation
+TIFF
+token
+tool bar
+Trojan horse
+TrueType
+tweet
+Twitter
+twisted pair cable
+two-factor authentication
+unicode
+UNIX
+upload
+USB
+username
+URL
+USB port
+utility
+uuencode
+VDI
+virtual classroom
+virtualization
+virtual classroom
+virtual hosting
+virtual memory
+virtual reality
+virus
+VoIP
+VPN
+VT100
+WAIS
+WAN
+WAP
+WEP
+wi-fi
+wild card
+Windows
+wireless
+wizard
+WLAN
+workstation
+World Wide Web
+worm
+WPA
+WWW
+WYSIWYG
+X2
+XDR
+XHTML
+XML
+zero-day
+zero trust network access
+zip
+Zip drive
+zoom

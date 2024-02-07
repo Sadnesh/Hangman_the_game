@@ -1,5 +1,5 @@
 """take a word from the dictonary and ask user to guess the word and provide the word's no count only and mark how many words the user provided
-cannot provide same letter twice 
+cannot provide same letter twice
 cannot have more than 6 guesses"""
 
 # from functools import partial # we can import this as well
@@ -79,8 +79,10 @@ def index_generator():
 
 
 def word_generator(dic):
+    if not dic:
+        raise ValueError("provided dic is empty")
     index = index_generator()
-    line = dic[index].strip()
+    line = dic[index % len(dic)].strip()
     if len(line) >= 3:
         return line
     else:
@@ -90,7 +92,7 @@ def word_generator(dic):
 def display_used(used_letters, dic_word):
     for i in used_letters:
         if not i in dic_word:
-            print(f"\x1b[9m{i}\x1b[m", end=" ")
+            print(f"\x1b[38;2;255;0;0m{i}\x1b[m", end=" ")
 
 
 def display(word_count):
@@ -164,3 +166,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# dic = open("hel.txt", "r").readlines()
+# longest = ""
+# for i in range(len(dic)):
+#     if len(dic[i]) >= len(longest):
+#         longest = dic[i]
+# print(len(longest))
