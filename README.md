@@ -25,7 +25,7 @@ This project is a simple implementation of the Hangman game in Python.
 ## Usage
 1. Clone this repository to your local machine.
     ~~~py
-    git clone https://github.com/sadnesh/Hangman_the_game.git
+    git clone https://github.com/Sadnesh/Hangman_the_game.git
     ~~~
 2. Navigate to the project directory.
     ~~~py
